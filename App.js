@@ -87,7 +87,8 @@ const styles = StyleSheet.create({
     borderLefthWidth: 2,
     borderLeftRadius: 5, 
     padding :10,
-    paddingHorizontal: 30
+    width: '100%',
+    paddingHorizontal: 20
   },
 
   inputContainer :{
